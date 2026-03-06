@@ -1,16 +1,21 @@
-## Hi there 👋
+# Wasif Ali
 
-<!--
-**wasifdevsol/wasifdevsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer specializing in mobile application development, backend systems, API integrations, and automation platforms.
 
-Here are some ideas to get you started:
+## About Me
+I am a self-taught software developer focused on building Android applications, backend integrations, and automation tools.  
+I enjoy building real systems and solving practical problems through software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+• Android Development  
+• REST API Integration  
+• Backend Systems  
+• Automation Platforms  
+• Custom Software Development  
+• WordPress Development  
+
+## Current Focus
+Building scalable Android applications and automation systems.
+
+## Location
+Lahore, Pakistan
